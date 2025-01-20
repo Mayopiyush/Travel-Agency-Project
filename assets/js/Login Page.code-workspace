@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"name": "Login Page",
+			"path": "../../../../Login Page"
+		},
+		{
+			"name": "My Portfolio",
+			"path": "../../../../My Portfolio"
+		},
+		{
+			"name": "RegistrationFormProject",
+			"path": "../../../../RegistrationFormProject"
+		},
+		{
+			"name": "TravelIn'It",
+			"path": "../.."
+		},
+		{
+			"name": "A BLog Page",
+			"path": "../../../../A BLog Page"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TravelIn'It"
+	}
+}
